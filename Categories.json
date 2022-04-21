@@ -1,21 +1,16 @@
 [{
   "image" : "https://images.unsplash.com/photo-1579548122080-c35fd6820ecb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
-  "name" : "Action",
-  "link" : "654843683"
+  "name" : "Action"
 }, {
   "image" : "https://xd.adobe.com/ideas/wp-content/uploads/2020/09/Being-Shady-How-to-Use-Gradient-Color-in-UX-Design-1-1100x550.jpeg",
-  "name" : "Adventure",
-  "link" : "654898600"
+  "name" : "Adventure"
 }, {
   "image" : "https://www.somar.co.nz/assets/Uploads/Blog-Images/gradient-blog-featured__ScaleWidthWzE5MjBd.jpg",
-  "name" : "Cartoon",
-  "link" : "1"
+  "name" : "Cartoon"
 }, {
   "image" : "https://htmlcolors.com/gradients-images/53-light-purple-gradient.jpg",
-  "name" : "Love",
-  "link" : "1"
+  "name" : "Love"
 }, {
   "image" : "https://miro.medium.com/max/3002/1*dP81IJq-tGFxy1rIK3RYsg.png",
-  "name" : "Thriller",
-  "link" : "1"
+  "name" : "Thriller"
 } ]
