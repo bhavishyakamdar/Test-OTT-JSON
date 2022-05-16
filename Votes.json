@@ -1,0 +1,27 @@
+[
+  {
+    "id" : "1",
+    "o1": "Horror Movie",
+    "o2": "Horror Comedy"
+  },
+  {
+    "id" : "2",
+    "o1": "Card Game",
+    "o2": "Board Game"
+  },
+{
+    "id" : "3",
+    "o1": "Classical Art",
+    "o2": "Modern Art"
+  },
+{
+    "id" : "4",
+    "o1": "Beer",
+    "o2": "Wine"
+  },
+  {
+    "id" : "5",
+    "o1": "Work Alone",
+    "o2": "Work With A Team"
+  }
+]
