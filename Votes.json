@@ -1,13 +1,13 @@
 [
   {
     "id" : "1",
-    "o1": "Horror Movie",
-    "o2": "Horror Comedy"
+    "o1": "Horror Movies",
+    "o2": "Comedy Movies"
   },
   {
     "id" : "2",
-    "o1": "Card Game",
-    "o2": "Board Game"
+    "o1": "Card Games",
+    "o2": "Board Games"
   },
 {
     "id" : "3",
