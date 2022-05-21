@@ -1,20 +1,20 @@
 [
   {
     "id" : "1",
-    "o1": "Horror Movies",
-    "o2": "Comedy Movies"
+    "o1": "Horror Movie",
+    "o2": "Horror Comedy"
   },
   {
     "id" : "2",
-    "o1": "Card Games",
-    "o2": "Board Games"
+    "o1": "Card Game",
+    "o2": "Board Game"
   },
 {
     "id" : "3",
     "o1": "Classical Art",
     "o2": "Modern Art"
   },
-{
+  {
     "id" : "4",
     "o1": "Beer",
     "o2": "Wine"
@@ -23,5 +23,474 @@
     "id" : "5",
     "o1": "Work Alone",
     "o2": "Work With A Team"
+  },
+ {
+    "id" : "6",
+    "o1": "Sweater",
+    "o2": "Hoodie"
+  },
+ {
+    "id" : "7",
+    "o1": "Comic Books",
+    "o2": "Comic Strips"
+  },
+ {
+    "id" : "8",
+    "o1": "Book",
+    "o2": "eBook"
+  },
+ {
+    "id" : "9",
+    "o1": "Ninjas",
+    "o2": "Pirates"
+  },
+ {
+    "id" : "10",
+    "o1": "TV Shows",
+    "o2": "Movies"
+  },
+ {
+    "id" : "11",
+    "o1": "Pop Music",
+    "o2": "Rock Music"
+  },
+ {
+    "id" : "12",
+    "o1": "Stuffed Animals",
+    "o2": "Dolls"
+  },
+ {
+    "id" : "13",
+    "o1": "French",
+    "o2": "Spanish"
+  },
+ {
+    "id" : "14",
+    "o1": "Library",
+    "o2": "Museum"
+  },
+ {
+    "id" : "15",
+    "o1": "Movie At Home",
+    "o2": "Movie At Theatre"
+  },
+ {
+    "id" : "16",
+    "o1": "Theatre",
+    "o2": "Cinema"
+  },
+ {
+    "id" : "17",
+    "o1": "Book",
+    "o2": "Movie"
+  },
+ {
+    "id" : "18",
+    "o1": "Hamburgers",
+    "o2": "Hot Dogs"
+  },
+ {
+    "id" : "19",
+    "o1": "Painting",
+    "o2": "Drawing"
+  },
+ {
+    "id" : "20",
+    "o1": "Reading",
+    "o2": "Writing"
+  },
+ {
+    "id" : "21",
+    "o1": "Singing",
+    "o2": "Dancing"
+  },
+ {
+    "id" : "22",
+    "o1": "Flowers",
+    "o2": "Trees"
+  },
+ {
+    "id" : "23",
+    "o1": "Brown Hair",
+    "o2": "Black Hair"
+  },
+ {
+    "id" : "24",
+    "o1": "Doctor Who",
+    "o2": "The Walking Dead"
+  },
+ {
+    "id" : "25",
+    "o1": "50's Music",
+    "o2": "80's Music"
+  },
+ {
+    "id" : "26",
+    "o1": "Frozen Yogurt",
+    "o2": "Ice Cream"
+  },
+ {
+    "id" : "27",
+    "o1": "Witches",
+    "o2": "Wizards"
+  },
+ {
+    "id" : "28",
+    "o1": "Fire",
+    "o2": "Ice"
+  },
+ {
+    "id" : "29",
+    "o1": "Books",
+    "o2": "Magazines"
+  },
+ {
+    "id" : "30",
+    "o1": "Circles",
+    "o2": "Squares"
+  },
+ {
+    "id" : "31",
+    "o1": "Piercing",
+    "o2": "Tattoo"
+  },
+ {
+    "id" : "32",
+    "o1": "Skiing",
+    "o2": "Snow Boarding"
+  },
+ {
+    "id" : "33",
+    "o1": "Watch Sports",
+    "o2": "Play Sports"
+  },
+ {
+    "id" : "34",
+    "o1": "Leather",
+    "o2": "Lace"
+  },
+ {
+    "id" : "35",
+    "o1": "Alaska",
+    "o2": "Hawaii"
+  },
+ {
+    "id" : "36",
+    "o1": "Mountains",
+    "o2": "Beach"
+  },
+ {
+    "id" : "37",
+    "o1": "Freedom",
+    "o2": "Hope"
+  },
+ {
+    "id" : "38",
+    "o1": "Snow White",
+    "o2": "Cinderella"
+  },
+ {
+    "id" : "39",
+    "o1": "Pasta",
+    "o2": "Pizza"
+  },
+ {
+    "id" : "40",
+    "o1": "Poetry Writing",
+    "o2": "Poetry Reading"
+  },
+ {
+    "id" : "41",
+    "o1": "Family",
+    "o2": "Friends"
+  },
+ {
+    "id" : "42",
+    "o1": "Wild Animals",
+    "o2": "Domestic Animals"
+  }, {
+    "id" : "43",
+    "o1": "Scooby Doo",
+    "o2": "Tom And Jerry"
+  },
+ {
+    "id" : "44",
+    "o1": "Panda",
+    "o2": "Whales"
+  },
+ {
+    "id" : "45",
+    "o1": "Apples",
+    "o2": "Oranges"
+  },
+ {
+    "id" : "46",
+    "o1": "Bagels",
+    "o2": "Toast"
+  },
+ {
+    "id" : "47",
+    "o1": "Swim In Pool",
+    "o2": "Swim At Sea"
+  },
+ {
+    "id" : "48",
+    "o1": "Steak",
+    "o2": "Chicken"
+  },
+ {
+    "id" : "49",
+    "o1": "Dine In",
+    "o2": "Delivery"
+  },
+ {
+    "id" : "50",
+    "o1": "Motocycle",
+    "o2": "Bicycle"
+  },
+{
+    "id" : "51",
+    "o1": "Cookies",
+    "o2": "Cakes"
+  },
+{
+    "id" : "52",
+    "o1": "Pancakes",
+    "o2": "Waffles"
+  },
+{
+    "id" : "53",
+    "o1": "Hot Chocolate",
+    "o2": "Coffee"
+  },
+{
+    "id" : "54",
+    "o1": "Morning",
+    "o2": "Evening"
+  },
+{
+    "id" : "55",
+    "o1": "Day",
+    "o2": "Night"
+  },
+{
+    "id" : "56",
+    "o1": "Book",
+    "o2": "Movie"
+  },
+{
+    "id" : "57",
+    "o1": "Chocolate",
+    "o2": "Vanilla"
+  },
+{
+    "id" : "58",
+    "o1": "Coke",
+    "o2": "Pepsi"
+  },
+{
+    "id" : "59",
+    "o1": "Milk",
+    "o2": "Juice"
+  },
+{
+    "id" : "60",
+    "o1": "Blue Eyes",
+    "o2": "Green Eyes"
+  },
+{
+    "id" : "61",
+    "o1": "Straight Hair",
+    "o2": "Curly Hair"
+  },
+{
+    "id" : "62",
+    "o1": "Fruits",
+    "o2": "Vegetables"
+  },
+{
+    "id" : "63",
+    "o1": "McDonald's",
+    "o2": "Burger King"
+  },
+{
+    "id" : "64",
+    "o1": "Ketchup",
+    "o2": "Mustard"
+  },
+{
+    "id" : "65",
+    "o1": "Skates",
+    "o2": "Bike"
+  },
+{
+    "id" : "66",
+    "o1": "Sweet",
+    "o2": "Salty"
+  },
+{
+    "id" : "67",
+    "o1": "Shower",
+    "o2": "Tub"
+  },
+{
+    "id" : "68",
+    "o1": "Banana",
+    "o2": "Apple"
+  },
+{
+    "id" : "69",
+    "o1": "Eggs",
+    "o2": "Oatmeal"
+  },
+{
+    "id" : "70",
+    "o1": "Digital Watch",
+    "o2": "Analog Watch"
+  },
+{
+    "id" : "72",
+    "o1": "White Bread",
+    "o2": "Wheat Bread"
+  },
+{
+    "id" : "73",
+    "o1": "Cake",
+    "o2": "Donuts"
+  },
+{
+    "id" : "74",
+    "o1": "Corn",
+    "o2": "Peas"
+  },
+{
+    "id" : "75",
+    "o1": "Salad",
+    "o2": "Squash"
+  },
+{
+    "id" : "76",
+    "o1": "Black Beans",
+    "o2": "Kidney Beans"
+  },
+{
+    "id" : "77",
+    "o1": "Orange Soda",
+    "o2": "Grape Soda"
+  },
+{
+    "id" : "78",
+    "o1": "Orange",
+    "o2": "Peach"
+  },
+{
+    "id" : "79",
+    "o1": "Watermelons",
+    "o2": "Plums"
+  },
+{
+    "id" : "80",
+    "o1": "Pastries",
+    "o2": "Cookies"
+  },
+{
+    "id" : "81",
+    "o1": "Jelly",
+    "o2": "Pudding"
+  },
+{
+    "id" : "82",
+    "o1": "Lime",
+    "o2": "Blue Berry"
+  },
+{
+    "id" : "83",
+    "o1": "Popcorn",
+    "o2": "Peanuts"
+  },
+{
+    "id" : "84",
+    "o1": "Iced Tea",
+    "o2": "Hot Tea"
+  },
+{
+    "id" : "85",
+    "o1": "Chinese Cuisine",
+    "o2": "Italian Cuisine"
+  },
+{
+    "id" : "86",
+    "o1": "Sweet",
+    "o2": "Sour"
+  },
+{
+    "id" : "87",
+    "o1": "Stew",
+    "o2": "Chilli"
   }
+{
+    "id" : "88",
+    "o1": "Ribs",
+    "o2": "Wings"
+  },
+{
+    "id" : "89",
+    "o1": "Irish Coffee",
+    "o2": "Plain Coffee"
+  },
+{
+    "id" : "90",
+    "o1": "Pizza",
+    "o2": "Subs"
+  },
+{
+    "id" : "91",
+    "o1": "Cashew",
+    "o2": "Almonds"
+  },
+{
+    "id" : "92",
+    "o1": "Cheese Fries",
+    "o2": "Chilli Fries"
+  },
+{
+    "id" : "93",
+    "o1": "Corn Chips",
+    "o2": "Doritos"
+  },
+{
+    "id" : "94",
+    "o1": "Cold Cereal",
+    "o2": "Oatmeal"
+  },
+{
+    "id" : "95",
+    "o1": "Pancakes",
+    "o2": "Muffins"
+  },
+{
+    "id" : "96",
+    "o1": "Drip Coffee",
+    "o2": "Instant Coffe"
+  },
+{
+    "id" : "97",
+    "o1": "Biscuits",
+    "o2": "Bread"
+  },
+{
+    "id" : "98",
+    "o1": "Garlic",
+    "o2": "Onion"
+  },
+{
+    "id" : "99",
+    "o1": "Whole Wheat",
+    "o2": "Rye"
+  },
+{
+    "id" : "100",
+    "o1": "French Fries",
+    "o2": "Onion Rings"
+  },
 ]
